@@ -1,4 +1,4 @@
 # first-git-Repository
 This is my first repository
 <br>
-author - Surendra kumar Jangid
+author - Surendra kumar Jangid(java devloper)
